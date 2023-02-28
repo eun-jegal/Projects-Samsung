@@ -1,6 +1,6 @@
 <h1>Projects at Samsung</h1>
 
-During my time at Samsung, I implemented multiple user-friendly features collaborating with UX designers, product managers and QA to enhance the Samsung Galaxy OneUI user experience. Here are some of my projects!
+During my time at Samsung Electronics, I implemented multiple user-friendly features collaborating with UX designers, product managers and QA to enhance the Samsung Galaxy OneUI user experience. Here are some of my projects!
 
 <!-- Google Translator -->
 <h2>On-Keyboard Google Translator</h2>

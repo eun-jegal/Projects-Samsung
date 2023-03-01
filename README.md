@@ -95,9 +95,9 @@ During my time at Samsung Electronics, I implemented multiple user-friendly feat
 <br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/57670625/220245448-777e124b-387b-4f43-b959-1e467fdfd5db.jpg" width="25%"/>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://user-images.githubusercontent.com/57670625/220245449-4d80c33b-f401-46de-a0cf-5e55347c0d7d.jpg" width="25%"/>
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://user-images.githubusercontent.com/57670625/220245300-a8dd2e8e-249c-4b17-87c3-a0132b73592d.gif" width="25%"/>
 </p>
 

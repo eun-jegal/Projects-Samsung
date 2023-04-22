@@ -14,7 +14,7 @@ During my time at Samsung, I implemented multiple user-friendly features collabo
 <h3>My role</h3>
 <li>Architecture design</li>
 <li>Prototyping</li>
-<li>Architecture design</li>
+<li>Implementation</li>
 <li>Unit Test</li>
 <li>Instrumental Test</li>
 <br>
@@ -39,6 +39,7 @@ During my time at Samsung, I implemented multiple user-friendly features collabo
 <h3>My role</h3>
 <li>Prototyping</li>
 <li>Architecture design</li>
+<li>Implementation</li>
 <li>Unit Test</li>
 <li>Instrumental Test</li>
 <br>
